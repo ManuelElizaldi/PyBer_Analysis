@@ -12,3 +12,8 @@ In the following line graph we can visualize the Total Fare by City type from Ja
 ![](/analysis/PyBer_fare_summary.png)
 
 ## Summary
+Recomendations for the CEO of PyBer based on the analysis:
+![](/analysis/summary_df.png)
+1.
+2.
+3.
