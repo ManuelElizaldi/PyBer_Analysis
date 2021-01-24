@@ -9,6 +9,6 @@ The data ranges from January to early May of 2019 , with this we created a compe
 In the following line graph we can visualize the Total Fare by City type from January to April. Some main points that we can mention from this analysis is that March is a high demand for every city type. Urban fares are not stable, they are volatile, going up and down quickly. Suburban fares are the middle ground with stable fares, haveing a large demand on March and April. Rural fares are low, due to the type of city.
 
 ### Plot: Total Fare by City Type
-![](/PyBer_Analysis/analysis/PyBer_fare_summary.png)
+![](/analysis/PyBer_fare_summary.png)
 
 ## Summary
